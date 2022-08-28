@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/A1.iml" filepath="$PROJECT_DIR$/A1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/secureChannel.iml" filepath="$PROJECT_DIR$/secureChannel.iml" />
     </modules>
   </component>
 </project>
